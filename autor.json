@@ -1,0 +1,25 @@
+[ {
+  "nome" : "Andrew",
+  "sobrenome" : "Stuart Tanenbaum",
+  "nacionalidade" : "Americano"
+}, {
+  "nome" : "José",
+  "sobrenome" : "Bento Renato Monteiro Lobato",
+  "nacionalidade" : "Brasileiro"
+}, {
+  "nome" : "Joaquim",
+  "sobrenome" : "Maria Machado de Assis",
+  "nacionalidade" : "Brasileiro"
+}, {
+  "nome" : "João ",
+  "sobrenome" : "Guimarães Rosa",
+  "nacionalidade" : "Brasileiro"
+}, {
+  "nome" : "Carlos",
+  "sobrenome" : "Drummond de Andrade",
+  "nacionalidade" : "Brasileiro"
+}, {
+  "nome" : "Jorge",
+  "sobrenome" : "Leal Amado de Faria",
+  "nacionalidade" : "Brasileiro"
+} ]

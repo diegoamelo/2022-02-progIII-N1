@@ -1,8 +1,13 @@
-package br.edu.femass.biblioteca.model;
+package br.edu.femass.model;
 
+import lombok.Data;
+
+@Data
 public class Aluno extends Leitor{
 
     private String matricula;
+
+    public Aluno(){}
 
     public Aluno(String nome,
                  String rua,
@@ -13,12 +18,9 @@ public class Aluno extends Leitor{
                  String uf,
                  String pais,
                  String cep,
-                 String ddi,
-                 String ddd,
                  String telefone,
-                 Integer prazoMaximoDevolucao,
-                 String disciplina){
-        super(nome, rua, numero, complemento, bairro, cidade, uf, pais, cep, ddi, ddd, telefone, 15);
+                 String matricula){
+        super(nome, rua, numero, complemento, bairro, cidade, uf, pais, cep, telefone, 15);
         this.matricula = matricula;
     }
 

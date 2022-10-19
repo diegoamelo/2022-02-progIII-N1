@@ -1,0 +1,33 @@
+[ {
+  "codigo" : 1,
+  "titulo" : "Gabriela, Cravo e Canela",
+  "autor" : {
+    "nome" : "Jorge",
+    "sobrenome" : "Leal Amado de Faria",
+    "nacionalidade" : "Brasileiro"
+  }
+}, {
+  "codigo" : 2,
+  "titulo" : "Dona Flor e Seus Dois Maridos",
+  "autor" : {
+    "nome" : "Jorge",
+    "sobrenome" : "Leal Amado de Faria",
+    "nacionalidade" : "Brasileiro"
+  }
+}, {
+  "codigo" : 3,
+  "titulo" : "Grande Sertão: Veredas",
+  "autor" : {
+    "nome" : "João ",
+    "sobrenome" : "Guimarães Rosa",
+    "nacionalidade" : "Brasileiro"
+  }
+}, {
+  "codigo" : 4,
+  "titulo" : "Memórias Póstumas de Brás Cubas",
+  "autor" : {
+    "nome" : "Joaquim",
+    "sobrenome" : "Maria Machado de Assis",
+    "nacionalidade" : "Brasileiro"
+  }
+} ]

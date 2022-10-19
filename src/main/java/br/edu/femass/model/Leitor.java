@@ -1,4 +1,4 @@
-package br.edu.femass.biblioteca.model;
+package br.edu.femass.model;
 
 import lombok.Data;
 
@@ -15,11 +15,11 @@ public class Leitor {
     private String uf;
     private String pais;
     private String cep;
-    private String ddi;
-    private String ddd;
     private String telefone;
     private Integer prazoMaximoDevolucao;
     private static Long proximoCodigo = 1L;
+
+    public Leitor(){}
 
     public Leitor(String nome,
                   String rua,
@@ -30,8 +30,6 @@ public class Leitor {
                   String uf,
                   String pais,
                   String cep,
-                  String ddi,
-                  String ddd,
                   String telefone,
                   Integer prazoMaximoDevolucao){
         this.codigo = proximoCodigo;
@@ -45,8 +43,6 @@ public class Leitor {
         this.uf = uf;
         this.pais = pais;
         this.cep = cep;
-        this.ddi = ddi;
-        this.ddd = ddd;
         this.telefone = telefone;
         this.prazoMaximoDevolucao = prazoMaximoDevolucao;
     }

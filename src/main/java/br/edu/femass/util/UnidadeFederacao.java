@@ -1,4 +1,4 @@
-package br.edu.femass.biblioteca.model;
+package br.edu.femass.util;
 
 public enum UnidadeFederacao {
 

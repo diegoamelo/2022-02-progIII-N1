@@ -1,0 +1,29 @@
+[ {
+  "codigo" : 1,
+  "nome" : "Diego",
+  "rua" : "Avenida Amazonas",
+  "numero" : 617,
+  "complemento" : "Ap 101",
+  "bairro" : "Mar Y Lago",
+  "cidade" : "Rio das Ostras",
+  "uf" : "RJ",
+  "pais" : "Brasil",
+  "cep" : "28897014",
+  "telefone" : "22999524461",
+  "prazoMaximoDevolucao" : 15,
+  "matricula" : "1234"
+}, {
+  "codigo" : 1,
+  "nome" : "Joãozinho",
+  "rua" : "Rua J",
+  "numero" : 1,
+  "complemento" : "casa",
+  "bairro" : "Centro",
+  "cidade" : "Macaé",
+  "uf" : "RJ",
+  "pais" : "Brasil",
+  "cep" : "27913080",
+  "telefone" : "2222222222",
+  "prazoMaximoDevolucao" : 15,
+  "matricula" : "9876"
+} ]
